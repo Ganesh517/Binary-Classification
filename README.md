@@ -35,7 +35,7 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 ## PROGRAM:
 ```
 Program to implement binary classification.
-Developed by: ELURU GANESH
+Developed by:ELURU GANESH
 Register Number: 212220230016
 ```
 ```python
